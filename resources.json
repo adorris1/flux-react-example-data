@@ -58,7 +58,7 @@
       "background": "3.jpg",
       "order": 0,
       "priority": 1,
-      "site": {
+      "siteMeta": {
         "priority": 1.0,
         "changefreq": "daily"
       },
@@ -86,7 +86,7 @@
       "background": "4.jpg",
       "order": 1,
       "priority": 1,
-      "site": {
+      "siteMeta": {
         "priority": 0.5,
         "changefreq": "monthly"
       },
@@ -114,7 +114,7 @@
       "background": "5.jpg",
       "order": 2,
       "priority": 1,
-      "site": {
+      "siteMeta": {
         "priority": 0.8,
         "changefreq": "weekly"
       },
