@@ -58,6 +58,10 @@
       "background": "3.jpg",
       "order": 0,
       "priority": 1,
+      "site": {
+        "priority": 1.0,
+        "changefreq": "daily"
+      },
       "action": {
         "name": "page",
         "params": {
@@ -82,6 +86,10 @@
       "background": "4.jpg",
       "order": 1,
       "priority": 1,
+      "site": {
+        "priority": 0.5,
+        "changefreq": "monthly"
+      },
       "action": {
         "name": "page",
         "params": {
@@ -106,6 +114,10 @@
       "background": "5.jpg",
       "order": 2,
       "priority": 1,
+      "site": {
+        "priority": 0.8,
+        "changefreq": "weekly"
+      },
       "action": {
         "name": "page",
         "params": {
